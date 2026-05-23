@@ -2,7 +2,7 @@
 
 # Alec Brown
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=800&color=70A5FD&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+Agentic+Workflows;%F0%9F%9B%A0%EF%B8%8F+MCP+Server+Enthusiast;%F0%9F%93%B1+iOS+App+Creator;%F0%9F%8C%8D+Tampa%2C+FL" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=800&color=70A5FD&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+Agentic+Workflows;%F0%9F%9B%A0%EF%B8%8F+MCP+Server+Enthusiast;%F0%9F%93%B1+Native+App+Creator;%F0%9F%8C%8D+Tampa%2C+FL" alt="Typing SVG" /></a>
 
 </div>
 
